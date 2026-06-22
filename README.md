@@ -28,7 +28,7 @@ Este repositorio se enfoca en evaluar la respuesta fenológica de la vegetación
 
 ![Diferencia de Resoluciones Espaciales](resolucion_diferencia.jpg)
 
-*(Visualización de la escala de trabajo: la elección del sensor determina el nivel de detalle ecosistémico capturado. Un único píxel de MODIS integra la información espectral de \~69 píxeles de Landsat y \~625 píxeles de Sentinel).*
+*(Visualización de la escala de trabajo: la elección del sensor determina el nivel de detalle ecosistémico capturado. Un único píxel de MODIS integra la información espectral de ~69 píxeles de Landsat y ~625 píxeles de Sentinel).*
 
 ------------------------------------------------------------------------
 
