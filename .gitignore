@@ -1,4 +1,41 @@
-.Rproj.user
+# ==========================================
+# 1. Archivos temporales y de sesión de R
+# ==========================================
 .Rhistory
 .RData
+.RDataTmp*
 .Ruserdata
+.Rproj.user/
+.Renviron
+*.Rproj.user
+
+# ==========================================
+# 2. Archivos Pesados / Espaciales Crudos
+# ==========================================
+# Ignorar todos los rasters pesados (TIF)
+*.tif
+*.tiff
+
+# Ignorar archivos auxiliares de QGIS/ESRI
+*.aux.xml
+*.tfw
+*.cpg
+
+# Ignorar entornos 3D pesados (Rayshader)
+*.hdr
+
+# ==========================================
+# 3. Archivos del Sistema Operativo
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignorar todos los datos base y resultados crudos (Reproducibles vía código)
+01_data/
+03_results/metricas_crudas/
+03_results/muestreo_espacial/
