@@ -1,16 +1,20 @@
 # Análisis Espaciotemporal de la Productividad Primaria del Bosque Esclerófilo en la Cuenca Aguas de Ramón
 
-> **Residencia Profesional para optar al Título de Ingeniería Forestal** Facultad de Agronomía y Sistemas Naturales · Pontificia Universidad Católica de Chile **Autor:** Alfredo Agustín Coddou Díaz **Profesor Guía:** Dr. Marcelo Miranda \| **Profesora Co-guía e Informante:** Dra. Sara Acevedo
+> **Residencia Profesional para optar al Título de Ingeniería Forestal** Facultad de Agronomía y Sistemas Naturales · Pontificia Universidad Católica de Chile
+
+> **Autor:** Alfredo Agustín Coddou Díaz
+
+> **Profesor Guía:** Dr. Marcelo Miranda \| **Profesora Co-guía e Informante:** Dra. Sara Acevedo
 
 ------------------------------------------------------------------------
 
 ## 🌍 Dinámica Fenológica Espaciotemporal
 
-| Landsat 8 (30m) | Sentinel-2 (10m) |
-|:----------------------------------:|:----------------------------------:|
-| ![Landsat Animación](03_results/reducciones_landsat_test/gif_fenologia_Ampl_test.gif) | ![Sentinel Animación](03_results/reducciones_sentinel/gif_fenologia_Ampl_sentinel.gif) |
-
-*(Evolución espaciotemporal de la amplitud fenológica [AMP] en la cuenca a lo largo de las temporadas de crecimiento, procesada a través de TIMESAT y visualizada dinámicamente).*
+<div align="center">
+  <img src="03_results/reducciones_modis/animacion_fenologia_Linteg.gif" alt="MODIS Animación LIN" width="80%">
+  <br><br>
+  <em>(Evolución espaciotemporal de la productividad primaria acumulada [LIN] en la cuenca capturada por MODIS, procesada a través de TIMESAT y visualizada dinámicamente).</em>
+</div>
 
 ------------------------------------------------------------------------
 
