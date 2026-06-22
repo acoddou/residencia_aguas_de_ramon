@@ -48,7 +48,7 @@ Evaluar la convergencia y discrepancia entre MODIS, Landsat y Sentinel al estima
 
 ### Modelado 3D de Cobertura Arbórea — Dynamic World & Rayshader
 
-![Cuenca 3D Aguas de Ramón](04_plots/3d_renders/cuenca_3D_completa.png)
+![Cuenca 3D Aguas de Ramón](04_plots/cuenca_3D.png)
 
 Render topográfico de alta calidad generado con `rayshader`. Muestra la probabilidad de cobertura arbórea (Google Dynamic World v1) proyectada sobre el modelo de elevación de la cuenca Aguas de Ramón.
 
