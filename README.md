@@ -26,7 +26,7 @@ Este repositorio se enfoca en evaluar la respuesta fenológica de la vegetación
 
 ### Escalas de Observación (MODIS vs Landsat vs Sentinel)
 
-![Diferencia de Resoluciones Espaciales](resolucion_diferencia.jpg)
+![Diferencia de Resoluciones Espaciales](resolucion_diferencia.png)
 
 *(Visualización de la escala de trabajo: la elección del sensor determina el nivel de detalle ecosistémico capturado. Un único píxel de MODIS integra la información espectral de ~69 píxeles de Landsat y ~625 píxeles de Sentinel).*
 
