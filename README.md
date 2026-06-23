@@ -5,8 +5,6 @@
 > **Residencia Profesional para optar al Título de Ingeniería Forestal**
 > Facultad de Agronomía y Sistemas Naturales · Pontificia Universidad Católica de Chile
 
-> **Residencia Profesional para optar al Título de Ingeniería Forestal** Facultad de Agronomía y Sistemas Naturales · Pontificia Universidad Católica de Chile
-
 > **Autor:** Alfredo Agustín Coddou Díaz
 
 > **Profesor Guía:** Dr. Marcelo Miranda \| **Profesora Co-guía e Informante:** Dra. Sara Acevedo
